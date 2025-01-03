@@ -1,0 +1,47 @@
+[
+  {
+    "disclaimer": "Add a 3rd window"
+  },
+  {
+  "def": "over",
+  "name": "N93791d5d5beb437bb8ec2f1f0ba4bf3b",
+  "children": [
+
+   {
+    "def": "def",
+    "name": "Window_002",
+    "inherits": [
+     "</N592504dc469a44d69ae8c801b591679c>"]
+   }]
+ },
+ {
+  "def": "class",
+  "type": "UsdGeom:Xform",
+  "name": "N592504dc469a44d69ae8c801b591679c",
+  "comment":"instance of Window_002",
+  "inherits": [
+   "</N25503984660543a18597eae657ff5bea>"]
+ },
+ {
+  "def": "over",
+  "name": "N592504dc469a44d69ae8c801b591679c",
+  "attributes": {
+   "xformOp": {
+    "transform": [
+     [1,0,0,0],
+     [0,1,0,0],
+     [0,0,1,0],
+     [7.94660663604736,0,1,1]]
+   }
+  }
+ },
+ {
+  "def": "over",
+  "name": "N592504dc469a44d69ae8c801b591679c",
+  "attributes": {
+   "customdata": {
+    "originalStepInstance": "This is only here to help understand the example. There will not be STEP code in IFC 5. This component represensts this line in the SPFF: #1407=IfcWindow('1P9GJSHff4rfheo06raMUR',$,'Window',$,$,#1478,#1435,$,$,$,$,$,$)"
+   }
+  }
+ }
+]
